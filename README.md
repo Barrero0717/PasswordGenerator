@@ -45,6 +45,11 @@ $ python3.9 -m venv env
 $ source env/bin/activate
 ```
 
+4. _Install all the dependencies and required libraries:_
+```
+$ pip install -r requirements.txt
+```
+
 ## ⚙️ Running the app 
 
 _Open terminal. Go into the cloned project directory, activate the Python virtual environment and type the following command:_
